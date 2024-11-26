@@ -1,4 +1,4 @@
-# Programmation Modulaire Version Langage C
+# Programmation Modulaire Version Python
 La programmation modulaire est une approche qui consiste à diviser un programme en plusieurs **modules** indépendants et réutilisables. Chaque module a une responsabilité spécifique, ce qui améliore l'organisation, la lisibilité, la maintenabilité et la réutilisabilité du code.
 ### **Avantages de la programmation modulaire :**
 Cette approche modulaire rend le code plus structuré, facile à lire, et maintenable.
